@@ -1,0 +1,3 @@
+package com.example.retrofit_recycleview_demo.utli.viewmodel
+
+interface CollectionItemViewModel
